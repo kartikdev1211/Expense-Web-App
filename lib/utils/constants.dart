@@ -1,0 +1,16 @@
+double? h;
+double? w;
+String logo = "assets/images/logo.png";
+String illustration = "assets/images/illustration.png";
+String illustration2 = "assets/images/illustration2.png";
+String illustration3 = "assets/images/illustration3.png";
+String google = "assets/images/google.png";
+String fb = "assets/images/fb.png";
+String cocacola = "assets/images/cocacola.png";
+String linkedin = "assets/images/linkedin.png";
+String samsung = "assets/images/samsung.png";
+String dashboard = "assets/images/dashboard.png";
+String vector1 = "assets/images/illustrator.png";
+String vector2 = "assets/images/image.png";
+String vector3 = "assets/images/Vector.png";
+String vector4 = "assets/images/Vector2.png";
